@@ -1,0 +1,5 @@
+let x := 1 in
+while (x < 11) do (
+  if (x / 2 * 2) = x then (write x) else ();
+  x := x + 1
+)

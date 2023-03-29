@@ -1,0 +1,3 @@
+if (while (false) do 1) then
+  write 1
+else write -1

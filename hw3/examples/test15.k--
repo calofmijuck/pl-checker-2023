@@ -1,0 +1,4 @@
+let x := 0 in
+if ((while (false) do 1) = (while (x < 1) do (x := x + 1))) then
+  write 9999
+else write -1

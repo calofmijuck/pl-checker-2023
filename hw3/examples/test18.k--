@@ -1,0 +1,9 @@
+write (
+  let x := 1 in
+  let y := 300 in
+  write x + y
+) + (
+  let x := 10 in
+  let y := -100 in
+  write x + y
+)
