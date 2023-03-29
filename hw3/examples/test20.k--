@@ -1,0 +1,8 @@
+write (
+  let x := 159 in
+  let y := -161 in
+  write x + y
+) + (
+  let x := 10 in
+  write x + z
+)
